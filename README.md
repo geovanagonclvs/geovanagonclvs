@@ -4,6 +4,7 @@
 - Atualmente focando na área de backend.
 
 #Linguagens:
-[https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg]([https://exemplo.com/](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg))
+[exemplo]([https://exemplo.com/](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg)).
+
 
 
