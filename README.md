@@ -1,8 +1,9 @@
-# Olá !✨🩷
+# Olá, meu nome é Geovana !✨🩷
 
-- Meu nome é Geovana e sou estudante do curso Engenharia de Software.
-- Atualmente, estou focando na área de backend e engenharia de dados
+- Estudante do curso Engenharia de Software.
+- Atualmente focando na área de backend.
 
 #Linguagens:
+[https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg]([https://exemplo.com/](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg))
 
-[!(https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg)]
+
