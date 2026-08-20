@@ -4,6 +4,6 @@
 - Atualmente focando na área de backend.
 
 #Linguagens:
-![image url](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width= "100">
 
 
