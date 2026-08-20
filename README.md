@@ -2,3 +2,7 @@
 
 - Meu nome é Geovana e sou estudante do curso Engenharia de Software.
 - Atualmente, estou focando na área de backend e engenharia de dados
+
+#Linguagens:
+
+[!(https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg)]
