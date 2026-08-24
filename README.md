@@ -1,4 +1,4 @@
-# Olá, meu nome é Geovana !✨🩷
+# Olá !✨🩷
 
 - Estudante do curso Engenharia de Software.
 - Atualmente focando na área de backend.
